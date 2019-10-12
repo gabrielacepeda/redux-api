@@ -1,5 +1,6 @@
 import { fromJS } from 'immutable';
 
+
 /** My Store **/
 const myInitialState = fromJS({
     quakes: [],
